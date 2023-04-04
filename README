@@ -1,0 +1,2 @@
+compile: javac Main.java URLHandler.java
+run: java Main 'firstParameter' 'SecondParameter'
